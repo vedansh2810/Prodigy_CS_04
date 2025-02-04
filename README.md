@@ -1,1 +1,41 @@
 # Prodigy_CS_04
+
+# Basic Keylogger
+
+This is a simple keylogger program written in Python using the `pynput` library. It logs keystrokes and saves them to a file. This tool is intended for educational purposes and should be used responsibly and ethically.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Ethical Considerations](#ethical-considerations)
+- [License](#license)
+
+## Features
+
+- Logs keystrokes to a file.
+- Handles special keys (e.g., Enter, Space, etc.).
+- Stops logging when the `Esc` key is pressed.
+
+## Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/yourusername/basic-keylogger.git
+   cd basic-keylogger
+
+
+2. Install the required library:
+
+   ```sh pip install pynput
+
+3. Usage
+    Run the script:
+
+    ```sh python keylogger.py
+
+The script will start logging keystrokes to keylog.txt.
+
+Press the Esc key to stop the logging.
