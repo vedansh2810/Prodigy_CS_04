@@ -1,5 +1,3 @@
-# Prodigy_CS_04
-
 # Basic Keylogger
 
 This is a simple keylogger program written in Python using the `pynput` library. It logs keystrokes and saves them to a file. This tool is intended for educational purposes and should be used responsibly and ethically.
