@@ -9,8 +9,7 @@ This is a simple keylogger program written in Python using the `pynput` library.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Ethical Considerations](#ethical-considerations)
-- [License](#license)
+
 
 ## Features
 
@@ -29,12 +28,14 @@ This is a simple keylogger program written in Python using the `pynput` library.
 
 2. Install the required library:
 
-   ```sh pip install pynput
+   ```
+   sh pip install pynput
 
-3. Usage
+## Usage
     Run the script:
 
-    ```sh python keylogger.py
+    ```sh
+     python keylogger.py
 
 The script will start logging keystrokes to keylog.txt.
 
