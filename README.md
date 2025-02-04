@@ -32,10 +32,10 @@ This is a simple keylogger program written in Python using the `pynput` library.
    pip install pynput
 
 ## Usage
-   Run the script:
+1. Run the program:
 
-    ```sh
-     python keylogger.py
+   ```sh
+   python keylogger.py
 
 The script will start logging keystrokes to keylog.txt.
 
