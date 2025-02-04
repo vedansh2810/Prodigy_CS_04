@@ -28,11 +28,11 @@ This is a simple keylogger program written in Python using the `pynput` library.
 
 2. Install the required library:
 
-   ```
-   sh pip install pynput
+   ``` sh
+   pip install pynput
 
 ## Usage
-    Run the script:
+   Run the script:
 
     ```sh
      python keylogger.py
